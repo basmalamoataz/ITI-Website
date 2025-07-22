@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="src/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ITI</title>
+</head>
+
+<body>
+ 
+       <div class="header-bg">
+    <nav class="navbar">
+        <div class="nav-links">
+            <a href="welcome.php">Home</a>
+            <a href="roadmap.html">Road Map</a>
+            <a href="profile.html">Course Application</a>
+            <a href="https://iti.gov.eg/home" target="_blank">Contact</a>
+        </div>
+        <img src="https://iti.gov.eg/assets/images/ColoredLogo.svg" alt="Information Technology Institute" class="nav-logo">
+    </nav>
+</div>
+
+  <div class="register-form-container">
+    <form>
+      <table class="register-table">
+        <tr>
+          <th colspan="2" class="form-title">Apply on our Courses</th>
+        </tr>
+        <tr>
+          <td colspan="2" class="form-note">
+            Field marked with * are compulsory fields
+          </td>
+        </tr>
+        <tr>
+          <td>*Your Name</td>
+          <td><input type="text" required></td>
+        </tr>
+        <tr>
+          <td>*E-Mail ID</td>
+          <td><input type="email" required></td>
+        </tr>
+        <tr>
+          <td>Alternative E-mail ID</td>
+          <td><input type="email"></td>
+        </tr>
+        <tr>
+          <td>Mobile Phone</td>
+          <td><input type="text"></td>
+        </tr>
+        <tr>
+          <td>*Your Postal Address</td>
+          <td><input type="text" required></td>
+        </tr>
+        <tr>
+          <td>*Country</td>
+          <td>
+            <select required>
+              <option>Select One</option>
+              <option>Egypt</option>
+              <option>Other</option>
+            </select>
+          </td>
+          <tr>
+          <td>*Course</td>
+          <td>
+            <select required>
+              <option>Select One</option>
+              <option>Machine Learning</option>
+              <option>NLP</option>
+              <option>Computer Vision</option>
+              <option>Cyber Security</option>
+              <option>Full Stack</option>
+              <option>Mobile App Development</option>
+            </select>
+          </td>
+        </tr>
+        <form method="post" enctype="multipart/form-data">
+           <table class="register-table">
+            <tr>
+            <td>Upload CV</td>
+            <td><input type="file" name="cv" required></td>
+              </tr>
+            <tr>
+          <td colspan="2">
+            <input type="checkbox" required> I accept the <a href="#">Terms of Use</a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="text-align:center;">
+            <button type="submit">Continue &gt;&gt;</button>
+            <button type="reset">Reset</button>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </div>
+</body>
+</html>
