@@ -26,9 +26,10 @@ This project is a user-friendly web platform for ITI students and applicants. It
 
 
 
-| Sign Up                     | Login                      | Road Map                  |  Course Application        |
-|-----------------------------|----------------------------|---------------------------| ---------------------------|
-| <img width="1917" height="929" alt="Screenshot 2025-07-22 134133" src="https://github.com/user-attachments/assets/10068ca7-44cd-47a5-8dd3-7ea61212f2b7" /> | <img width="1912" height="924" alt="Screenshot 2025-07-22 134149" src="https://github.com/user-attachments/assets/636b74ad-3fb0-4a42-a7ce-cbbf67920388" />  | <img width="1917" height="926" alt="Screenshot 2025-07-22 134218" src="https://github.com/user-attachments/assets/23ab533b-ec1f-4ea5-919a-a33fd2665d1b" /> | <img width="1908" height="924" alt="Screenshot 2025-07-22 134410" src="https://github.com/user-attachments/assets/aaad3118-4755-4c96-9ac4-592d10c06f95" /> |
+| Sign Up                     | Login                      | Road Map                  |  Course Application        | Road Map for each course (ex: ML)|
+|-----------------------------|----------------------------|---------------------------| ---------------------------|----------------------------------|
+| <img width="1917" height="929" alt="Screenshot 2025-07-22 134133" src="https://github.com/user-attachments/assets/10068ca7-44cd-47a5-8dd3-7ea61212f2b7" /> | <img width="1912" height="924" alt="Screenshot 2025-07-22 134149" src="https://github.com/user-attachments/assets/636b74ad-3fb0-4a42-a7ce-cbbf67920388" />  | <img width="1917" height="926" alt="Screenshot 2025-07-22 134218" src="https://github.com/user-attachments/assets/23ab533b-ec1f-4ea5-919a-a33fd2665d1b" /> | <img width="1908" height="924" alt="Screenshot 2025-07-22 134410" src="https://github.com/user-attachments/assets/aaad3118-4755-4c96-9ac4-592d10c06f95" /> |<img width="1877" height="926" alt="Screenshot 2025-07-22 135525" src="https://github.com/user-attachments/assets/022558eb-f907-47a0-85c6-0901e2521012" /> |
+
 
 
 
